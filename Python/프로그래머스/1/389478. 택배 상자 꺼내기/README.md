@@ -1,6 +1,7 @@
 # [level 1] 택배 상자 꺼내기 - 389478 
 
 [풀이 블로그 링크](https://y-seo.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%8D%AC-Lv1-%ED%83%9D%EB%B0%B0-%EC%83%81%EC%9E%90-%EA%BA%BC%EB%82%B4%EA%B8%B0)
+
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/389478) 
 
 ### 성능 요약
