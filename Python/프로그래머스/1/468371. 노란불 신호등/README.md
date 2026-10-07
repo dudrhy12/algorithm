@@ -1,6 +1,6 @@
 # [level 1] 노란불 신호등 - 468371 
 
-[문제풀이 블로그 링크] (https://y-seo.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%8D%AC-Lv1-%EB%85%B8%EB%9E%80%EB%B6%88-%EC%8B%A0%ED%98%B8%EB%93%B1)
+[문제풀이 블로그 링크](https://y-seo.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%8D%AC-Lv1-%EB%85%B8%EB%9E%80%EB%B6%88-%EC%8B%A0%ED%98%B8%EB%93%B1)
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/468371) 
 
