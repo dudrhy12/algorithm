@@ -1,5 +1,7 @@
 # [level 4] 그룹별 조건에 맞는 식당 목록 출력하기 - 131124 
 
+[문제풀이 블로그 링크](https://y-seo.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4SQL-JOIN-%EA%B7%B8%EB%A3%B9%EB%B3%84-%EC%A1%B0%EA%B1%B4%EC%97%90-%EB%A7%9E%EB%8A%94-%EC%8B%9D%EB%8B%B9-%EB%AA%A9%EB%A1%9D-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
+
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131124) 
 
 ### 성능 요약
