@@ -1,4 +1,5 @@
 # [level 2] 카펫 - 42842 
+[블로그 문제풀이 링크](https://y-seo.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%8D%AC-Lv2-%EC%B9%B4%ED%8E%AB)
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42842) 
 
