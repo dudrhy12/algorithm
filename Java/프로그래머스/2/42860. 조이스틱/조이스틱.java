@@ -4,10 +4,7 @@ class Solution {
 
         // 알파벳 변경 횟수
         for (int i = 0; i < name.length(); i++) {
-            answer += Math.min(
-                up('A', name.charAt(i)),
-                down('A', name.charAt(i))
-            );
+            answer += Math.min(up('A', name.charAt(i)), down('A', name.charAt(i)));
         }
 
         // 좌우 이동 횟수
